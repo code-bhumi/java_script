@@ -1,2 +1,3 @@
 *.class
 excel_to_json/node_modules/
+javascript/.vscode/
