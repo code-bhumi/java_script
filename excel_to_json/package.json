@@ -1,0 +1,14 @@
+{
+  "name": "excel_to_json",
+  "version": "1.0.0",
+  "description": "project to test excel to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meenakshi Pal",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
